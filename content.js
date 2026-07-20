@@ -15,7 +15,7 @@ const CONFIG = {
   /* ─────────── 1. ABOUT ME ─────────── */
   name: "Elizabeth Alexander",
   tagline: "Providing trauma informed training, mentorship, and child advocacy grounded in lived experience.",
-  bio: "[Short bio]",
+  // bio: "[Short bio]",
   greeting: "Thanks for connecting with me. I’d love to stay in touch!",
 
   // Your headshot. Upload a photo named "photo.jpg" to the project,
