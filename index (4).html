@@ -536,7 +536,7 @@ form.addEventListener('submit', async (ev) => {
   const email = document.getElementById('f-email').value.trim();
   const consent = document.getElementById('f-consent').checked;
   const problems = [];
-  if (!name) problems.push("your name");
+  if (!name) problems.push("Emily E Cox");
   if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) problems.push("a valid email");
   if (!consent) problems.push("the consent checkbox");
   if (problems.length){
