@@ -13,9 +13,9 @@
 const CONFIG = {
 
   /* ─────────── 1. ABOUT ME ─────────── */
-  name: "[Your Name]",
-  tagline: "[Professional title or tagline]",
-  bio: "[Short bio — two to four sentences about who you are, what you do, and what you care about.]",
+  name: "Elizabeth Alexander",
+  tagline: "Providing trauma informed training, mentorship, and child advocacy grounded in lived experience.",
+  bio: "[Short bio]",
   greeting: "Thanks for connecting with me. I’d love to stay in touch.",
 
   // Your headshot. Upload a photo named "photo.jpg" to the project,
@@ -24,7 +24,7 @@ const CONFIG = {
 
   // Email shown in the privacy note for deletion requests.
   // (This is your PUBLIC contact email — it appears on the page.)
-  contactEmail: "[you@example.com]",
+  contactEmail: "[EmilyECox98@gmail.com]",
 
   /* ─────────── 2. SOCIAL LINKS ───────────
      Add as many as you like, or delete lines you don't want.  */
@@ -48,7 +48,7 @@ const CONFIG = {
   // ⚠️ FILL THIS IN DURING PHASE 4 (Google setup).
   // This is the public web address of your Google Apps Script.
   // It is safe to appear here — it contains no passwords.
-  formEndpoint: "",
+  formEndpoint: "https://script.google.com/macros/s/AKfycbzFG4gX5164ojRHVDzbxnl-DhJrE5HL9di_ZUfFNg09FxrcuZ-pcfPW7tTTVKFkdg2aqg/exec",
 
   /* ─────────── 4. EVENTS ───────────
      Date format must be YYYY-MM-DD (e.g. "2026-08-20").
