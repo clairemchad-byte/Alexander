@@ -24,7 +24,7 @@ const CONFIG = {
 
   // Your headshot. Upload a photo named "photo.jpg" to the project,
   // then change "" to "photo.jpg". Leave "" to show the placeholder.
-  photo: "",
+  photo: "photo.jpg",
 
   // Email shown in the privacy note for deletion requests.
   // (This is your PUBLIC contact email — it appears on the page.)
