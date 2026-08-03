@@ -82,7 +82,7 @@ a{color:var(--olive-deep);}
   box-shadow:5px 5px 0 var(--ink);
 }
 .avatar{
-  width:150px; height:150px; border-radius:50%; margin:0; flex:none; position:relative;
+  width:150px; height:150px; border-radius:50%; margin:0; flex:none;
   background:var(--yellow); border:var(--sticker);
   box-shadow:3px 3px 0 var(--orange);
   display:flex; align-items:center; justify-content:center;
@@ -92,7 +92,8 @@ a{color:var(--olive-deep);}
 .bio{font-size:15px; text-align:left; margin-bottom:14px; white-space:pre-line;}
 /* ── Photo + butterfly side by side ── */
 .photo-row{
-  display:flex; align-items:center; justify-content:center;
+   position:relative;
+   display:flex; align-items:center; justify-content:center;
   gap:2px; margin-bottom:10px;
 }
 .butterfly{
